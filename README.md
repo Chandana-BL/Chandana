@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chandana-BL.
+- 👋 Hi, I’m @Chandana.
 - 👀 I’m interested in solving practical problems.
 - 🌱 I’m currently learning programming, embedded systems, IOT.
 -  I’m looking to collaborate on hardware projects.
